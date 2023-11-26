@@ -1,3 +1,4 @@
+FINALPACKAGE=1
 TARGET := iphone:clang:latest
 INSTALL_TARGET_PROCESSES = Preferences
 THEOS_PACKAGE_SCHEME = rootless

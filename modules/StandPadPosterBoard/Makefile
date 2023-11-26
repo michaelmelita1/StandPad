@@ -1,3 +1,4 @@
+FINALPACKAGE=1
 TARGET := iphone:clang:latest
 INSTALL_TARGET_PROCESSES = PosterBoard
 THEOS_PACKAGE_SCHEME = rootless

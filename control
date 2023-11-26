@@ -2,8 +2,10 @@ Package: com.pookjw.standpad
 Name: StandPad
 Version: 1.0
 Architecture: iphoneos-arm64
-Description: Hello World!
+Description: Enable StandBy feature on iPadOS
 Maintainer: pookjw
 Author: pookjw
 Section: Tweaks
 Depends: firmware (>= 17.0)
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.pookjw.standpad
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.pookjw.standpad/info.json
